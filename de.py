@@ -7,7 +7,7 @@ verben = {
     "abgeben": [pr + 'gibt ab', pe + 'hat abgegeben'],
     "abheben": [pr + 'hebt ab', pe + 'hat abgehoben'],
     "abnehmen": [pr + 'nimmt ab', pe + 'hat abgenommen'],
-    "None": [pr + 'None', pe + 'None'],
+    "": [pr + '', pe + ''],
     "": [pr + '', pe + ''],
     "": [pr + '', pe + ''],
     "": [pr + '', pe + ''],
